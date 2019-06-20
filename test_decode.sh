@@ -1,0 +1,1 @@
+python cli_chall_accepted.py --decode ./data/merge.bmp
